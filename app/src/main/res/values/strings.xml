@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expense App</string>
+    <string name="go_to_home">Go to home</string>
+    <string name="go_to_graphs">Go to graphs</string>
+</resources>
